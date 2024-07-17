@@ -42,8 +42,7 @@ namespace Lab1
                     
                 }   
                 else
-                    Gradus += value / 60;
-                    min = value % 60;
+                    min = value;
 
             }
         }
